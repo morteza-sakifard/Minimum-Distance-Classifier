@@ -15,6 +15,7 @@ Minimum Euclidean distance classifier will give better results if the following 
 
 ## Mahalanobis Distance
 Mahalanobis distance is an effective multivariate distance metric that measures the distance between a point (vector) and a distribution.
+
 ![image](https://user-images.githubusercontent.com/23229539/152848357-908ace88-b20a-4c36-8210-e18bb5e08c63.png)
  - D^2        is the square of the Mahalanobis distance. 
  - x          is the vector of the observation (row in a dataset), 
